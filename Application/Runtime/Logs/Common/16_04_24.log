@@ -1,0 +1,6 @@
+[ 2016-04-24T16:58:27+08:00 ] ::1 /web/application/Controller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008638s ]
+ERR: 无法加载模块:Application
+

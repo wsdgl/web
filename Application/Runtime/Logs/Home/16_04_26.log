@@ -1,0 +1,13 @@
+[ 2016-04-26T22:39:41+08:00 ] ::1 /web/Home/User/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.126078s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.021265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021366s ]
+SQL: SHOW COLUMNS FROM `environment_data` [ RunTime:0.5131s ]
+SQL: SELECT * FROM `environment_data`  [ RunTime:0.0177s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015640s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015759s ]
+

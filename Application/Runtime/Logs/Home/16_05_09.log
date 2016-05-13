@@ -1,0 +1,169 @@
+[ 2016-05-09T20:47:16+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.039076s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.040804s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.040893s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0569s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013454s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013614s ]
+
+[ 2016-05-09T20:48:58+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000945s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001106s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0252s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001782s ]
+
+[ 2016-05-09T20:53:21+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000137s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003598s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004806s ]
+
+[ 2016-05-09T20:59:49+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001469s ]
+
+[ 2016-05-09T22:16:29+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.052382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026283s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.4496s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0175s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016723s ]
+
+[ 2016-05-09T22:27:16+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001997s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002166s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0201s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002377s ]
+
+[ 2016-05-09T22:27:37+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023772s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002704s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002898s ]
+
+[ 2016-05-09T22:28:59+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004867s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005028s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001863s ]
+
+[ 2016-05-09T22:29:34+08:00 ] 115.200.16.217 /web/Home/User/humd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001703s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001876s ]
+SQL: SHOW COLUMNS FROM `humdsensor` [ RunTime:0.0244s ]
+SQL: SELECT * FROM `humdsensor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001823s ]
+
+[ 2016-05-09T22:32:05+08:00 ] 115.200.16.217 /web/Home/User/humd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001618s ]
+SQL: SHOW COLUMNS FROM `humdsensor` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `humdsensor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001471s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001545s ]
+
+[ 2016-05-09T22:32:05+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001352s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001239s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001346s ]
+
+[ 2016-05-09T22:35:31+08:00 ] 115.200.16.217 /web/Home/User/humd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001417s ]
+SQL: SHOW COLUMNS FROM `humdsensor` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `humdsensor`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001327s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001402s ]
+
+[ 2016-05-09T22:35:31+08:00 ] 115.200.16.217 /web/Home/User/temp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001475s ]
+SQL: SHOW COLUMNS FROM `tempsensor` [ RunTime:0.0238s ]
+SQL: SELECT * FROM `tempsensor`  [ RunTime:0.0005s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001485s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001602s ]
+
